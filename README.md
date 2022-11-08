@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/hamdihismail/order-summary-component)
+- Live Site URL: (https://kaleidoscopic-gaufre-24929b.netlify.app)
 
 ## My process
 
